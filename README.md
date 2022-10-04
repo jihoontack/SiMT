@@ -64,11 +64,11 @@ python main.py --simt --mode <MODE> --model <MODEL> --dataset <DATASET> --load_p
 
 ## Citation
 ```
-@inproceedings{tack2020csi,
-  title={CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances},
-  author={Jihoon Tack and Sangwoo Mo and Jongheon Jeong and Jinwoo Shin},
+@inproceedings{tack2022meta,
+  title={Meta-Learning with Self-Improving Momentum Target},
+  author={Jihoon Tack and Jongjin Park and Hankook Lee and Jaeho Lee and Jinwoo Shin},
   booktitle={Advances in Neural Information Processing Systems},
-  year={2020}
+  year={2022}
 }
 ```
 
