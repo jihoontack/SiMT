@@ -7,6 +7,12 @@ Official PyTorch implementation of "Meta-learning with Self-Improving Momentum T
 [Jaeho Lee](https://jaeho-lee.github.io/),
 [Jinwoo Shin](https://alinlab.kaist.ac.kr/shin.html).
 
+**TL;DR**: *We propose a meta-learning algorithm to generate a target model from which we distill the knowledge to the meta-model, forming a virtuous cycle of improvements.*
+
+<p align="center">
+    <img src=figure/concept_figure.png width="900"> 
+</p>
+
 ## 1. Dependencies
 ```
 conda create -n simt python=3.8 -y
