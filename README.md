@@ -1,8 +1,8 @@
 # SiMT: Self-improving Momentum Target
 
-Official PyTorch implementation of "Meta-learning with Self-Improving Momentum Target" (NeurIPS 2022) by 
+Official PyTorch implementation of ["Meta-Learning with Self-Improving Momentum Target"](https://arxiv.org/abs/2210.05185) (NeurIPS 2022) by 
 [Jihoon Tack](https://jihoontack.github.io/),
-[Jongjin Park](https://scholar.google.com/citations?user=F9DGEgEAAAAJ&hl=ko),
+[Jongjin Park](https://pjj4288.github.io/),
 [Hankook Lee](https://hankook.github.io/),
 [Jaeho Lee](https://jaeho-lee.github.io/),
 [Jinwoo Shin](https://alinlab.kaist.ac.kr/shin.html).
